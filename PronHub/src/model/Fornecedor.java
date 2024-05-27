@@ -2,7 +2,7 @@ package model;
 
 import java.util.Date;
 import java.util.Scanner;
-import dao.FornecedorDAO;
+
 
 public class Fornecedor extends Pessoa {
     private String nomeFantasia;
