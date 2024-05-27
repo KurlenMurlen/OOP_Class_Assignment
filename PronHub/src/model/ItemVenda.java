@@ -3,7 +3,7 @@ package model;
 public class ItemVenda {
     private int id;
     private Venda venda;
-    private int produtoIPd;
+    private int produtoId;
     private int quantidade;
 
     // Construtor
