@@ -4,7 +4,7 @@ import java.util.Date;
 import java.util.Scanner;
 
 public class Admin extends Pessoa {
-//crystofer ama benga preta
+
     public Admin(String nome, String email, String senha) {
         super(nome, email, senha);
     }
