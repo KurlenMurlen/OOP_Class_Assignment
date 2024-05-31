@@ -4,6 +4,7 @@ import java.util.Date;
 import java.util.Scanner;
 
 public class Admin extends Pessoa {
+
     public Admin(String nome, String email, String senha) {
         super(nome, email, senha);
     }
